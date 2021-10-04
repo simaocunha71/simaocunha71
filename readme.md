@@ -15,14 +15,21 @@ Here you have several ways to contact me:
 
 ### 1st year
 - **Programação Funcional** (Functional Programming) - ![Captura de ecrã de 2021-07-07 18](https://user-images.githubusercontent.com/61991247/124803105-97144d80-df50-11eb-80dc-d66521ead478.png) - [Exercises](https://github.com/simaocunha71/PF_Haskell)
-- **Laboratórios de Informática I** - ![Captura de ecrã de 2021-07-07 18](https://user-images.githubusercontent.com/61991247/124803105-97144d80-df50-11eb-80dc-d66521ead478.png) - [Project](https://github.com/simaocunha71/LI1_ExciteBike)
+- **Laboratórios de Informática I** (Informatic Labs I)- ![Captura de ecrã de 2021-07-07 18](https://user-images.githubusercontent.com/61991247/124803105-97144d80-df50-11eb-80dc-d66521ead478.png) - [Project](https://github.com/simaocunha71/LI1_ExciteBike)
 - **Programação Imperativa** (Imperative Programming) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Exercises](https://github.com/simaocunha71/PI_C)
-- **Laboratórios de Informática II** - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/simaocunha71/LI2-Rastros)
+- **Laboratórios de Informática II** (Informatic Labs II)- ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/simaocunha71/LI2-Rastros)
 
 ### 2nd year
 
 - **Comunicação de Dados** (Data Communication) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/simaocunha71/CD-ShannonFano_Project)
 - **Programação Orientada aos Objetos** (Object Oriented Programming) - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Exercises](https://github.com/simaocunha71/POO) | [Project](https://github.com/simaocunha71/PROJETOPOO)
-- **Laboratórios de Informática III** - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) & ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Projects](https://github.com/simaocunha71/LI3_Projetos)
+- **Laboratórios de Informática III** (Informatic Labs III) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) & ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Projects](https://github.com/simaocunha71/LI3_Projetos)
 - **Cálculo de Programas** (Program Calculation) - ![Captura de ecrã de 2021-07-07 18](https://user-images.githubusercontent.com/61991247/124803105-97144d80-df50-11eb-80dc-d66521ead478.png) - [Project](https://github.com/simaocunha71/CP_Projeto)
 - **Sistemas Operativos** (Operative Systems) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - Under maintenance
+
+### 3rd year
+- **Desenvolvimento de Sistemas de Software** (Software Systems Development) - Under maintenance
+- **Sistemas Distribuídos** (Dstributed Systems) - Under maintenance
+- **Inteligência Artificial** (Artificial Intelligence) - Under maintenance
+- **Laboratórios de Informática IV** (Informatic Labs IV) - Under maintenance
+- **Comunicações por Computador** (Computer Communications) - Under maintenance
