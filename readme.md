@@ -30,6 +30,6 @@ Here you have several ways to contact me:
 ### 3rd year
 - **Desenvolvimento de Sistemas de Software** (Software Systems Development) ![vpp](https://user-images.githubusercontent.com/61991247/148314811-34b4ca90-9fde-4c7d-b5a4-5d33f4bdbb10.png) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - Under maintenance
 - **Sistemas Distribuídos** (Dstributed Systems) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - Under maintenance
-- **Inteligência Artificial** (Artificial Intelligence) - ![prolog](https://user-images.githubusercontent.com/61991247/148315069-2ef27e5e-90f7-45da-85e7-a4cf3c9030c4.png) - Under maintenance
+- **Inteligência Artificial** (Artificial Intelligence) - ![prolog](https://user-images.githubusercontent.com/61991247/148315069-2ef27e5e-90f7-45da-85e7-a4cf3c9030c4.png) - [Exercises](https://github.com/simaocunha71/ia) | [Project](https://github.com/simaocunha71/IA_Projeto)
 - **Laboratórios de Informática IV** (Informatic Labs IV) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - Under maintenance
 - **Comunicações por Computador** (Computer Communications) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - Under maintenance
