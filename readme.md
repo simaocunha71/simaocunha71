@@ -29,7 +29,7 @@ Here you have several ways to contact me:
 
 ### 3rd year
 - **Desenvolvimento de Sistemas de Software** (Software Systems Development) ![vpp](https://user-images.githubusercontent.com/61991247/148314811-34b4ca90-9fde-4c7d-b5a4-5d33f4bdbb10.png) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - Under maintenance
-- **Sistemas Distribuídos** (Dstributed Systems) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - Under maintenance
+- **Sistemas Distribuídos** (Distributed Systems) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Exercises](https://github.com/simaocunha71/sd) | [Project](https://github.com/Surumkata/ProjetoSD)
 - **Inteligência Artificial** (Artificial Intelligence) - ![prolog](https://user-images.githubusercontent.com/61991247/148315069-2ef27e5e-90f7-45da-85e7-a4cf3c9030c4.png) - [Exercises](https://github.com/simaocunha71/ia) | [Project](https://github.com/simaocunha71/IA_Projeto)
 - **Laboratórios de Informática IV** (Informatic Labs IV) ![PHP badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) - [Project](https://github.com/Surumkata/LI4)
 - **Comunicações por Computador** (Computer Communications) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - Under maintenance
