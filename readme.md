@@ -35,7 +35,7 @@ Here you have several ways to contact me:
 - **Comunicações por Computador** (Computer Communications) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Projects](https://github.com/simaocunha71/cc)
 - **Processamento de Linguagens** (Language Processing) ![Python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) - [Projects](https://github.com/simaocunha71/pl_projeto)
 - **Computação Gráfica** (Computer Graphics) - ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OGL badge](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) - [Project](https://github.com/simaocunha71/CG_Projeto)
-- **Aprendizagem e Decisão Inteligentes** (Intelligent Learning and Decision Making) - [Project]
-- **Investigação Operacional** (Operational Research) - [Projects]
+- **Aprendizagem e Decisão Inteligentes** (Intelligent Learning and Decision Making) - [Project](https://github.com/simaocunha71/ADI_projeto)
+- **Investigação Operacional** (Operational Research) - [Projects](https://github.com/simaocunha71/IO_Projetos)
 - **Redes de Computadores** (Computer Networks) - [Projects]
 
