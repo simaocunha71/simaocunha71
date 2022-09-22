@@ -13,7 +13,6 @@ Here you have several ways to contact me:
 <p align="center">
    <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=simaocunha71&show_icons=true&theme=vue-dark"/></img>
    <img width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaocunha71&layout=compact&theme=vue-dark"/></img>
-   <img width="350" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=simaocunha71&show_icons=true&theme=vue-dark"/></img>
 </p>
 
 ## My college projects :floppy_disk:
