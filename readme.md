@@ -17,7 +17,7 @@ Here you have several ways to contact me:
 - **Programação Funcional** (Functional Programming) - ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Exercises](https://github.com/simaocunha71/PF_Haskell)
 - **Laboratórios de Informática I** (Informatic Labs I)- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Project](https://github.com/simaocunha71/LI1_ExciteBike)
 - **Programação Imperativa** (Imperative Programming) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Exercises](https://github.com/simaocunha71/PI_C)
-- **Laboratórios de Informática II** (Informatic Labs II)- ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/simaocunha71/LI2-Rastros)
+- **Laboratórios de Informática II** (Informatic Labs II)- ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/surumkata/rastros)
 
 ### 2nd year
 
