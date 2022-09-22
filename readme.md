@@ -2,14 +2,19 @@ Greetings everyone!
 My name is Simão Cunha and I'm currently studying Software Engineering at University of Minho. 
 
 Here you have several ways to contact me:
+<div align="center">
 
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%A3o-cunha-379785202/)
-[![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simaocunha71/)
-[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simaopscunha@outlook.pt)
+  <a href="">[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sim%C3%A3o-cunha-379785202/)</a>
+  <a href="">[![Instagram badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/simaocunha71/)</a>
+  <a href="">[![Email badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:simaopscunha@outlook.pt)</a>
 
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaocunha71&layout=compact&theme=vue-dark)](https://github.com/simaocunha71/github-readme-stats)
-![Simão Cunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaocunha71&show_icons=true&theme=vue-dark)
+<p align="center">
+   <img width="350" height="150" src="https://github-readme-stats.vercel.app/api?username=simaocunha71&show_icons=true&theme=vue-dark"/></img>
+   <img width="300" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaocunha71&layout=compact&theme=vue-dark"/></img>
+   <img width="350" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=simaocunha71&show_icons=true&theme=vue-dark"/></img>
+</p>
 
 ## My college projects :floppy_disk:
 <!-- start college projects section -->
