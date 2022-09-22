@@ -11,8 +11,11 @@ Here you have several ways to contact me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaocunha71&layout=compact&theme=vue-dark)](https://github.com/simaocunha71/github-readme-stats)
 ![Simão Cunha's GitHub stats](https://github-readme-stats.vercel.app/api?username=simaocunha71&show_icons=true&theme=vue-dark)
 
-## My college projects 
-
+## My college projects :floppy_disk:
+<!-- start college projects section -->
+<details>
+<summary><b> Bachelor's degree :books:</b></summary>
+  
 ### 1st year
 - **Programação Funcional** (Functional Programming) - ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Exercises](https://github.com/simaocunha71/PF_Haskell)
 - **Laboratórios de Informática I** (Informatic Labs I)- ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) - [Project](https://github.com/simaocunha71/LI1_ExciteBike)
@@ -38,4 +41,18 @@ Here you have several ways to contact me:
 - **Aprendizagem e Decisão Inteligentes** (Intelligent Learning and Decision Making) - [Project](https://github.com/simaocunha71/ADI_projeto)
 - **Investigação Operacional** (Operational Research) - [Projects](https://github.com/simaocunha71/IO_Projetos)
 - **Redes de Computadores** (Computer Networks) - [Projects]
+
+</details>
+
+<details open>
+<summary><b> Master's degree :mortar_board:</b></summary>
+
+- **Aplicações e Serviços de Computação em Nuvem** (Cloud Computing Applications and Services) - Under maintenance
+- **Computação Paralela** (Parallel Computing) - Under maintenance
+- **Dados e Aprendizagem Automática** (Data and Machine Learning) - Under maintenance
+- **Engenharia de Serviços em Rede** (Network Services Engineering) - Under maintenance
+- **Métodos Formais em Engenharia de Software** (Formal Methods in Software Engineering) - Under maintenance
+- **Requisitos e Arquiteturas de Software** (Software Requirements and Architectures) - Under maintenance
+</details>
+
 
