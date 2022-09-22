@@ -25,7 +25,7 @@ Here you have several ways to contact me:
 ### 2nd year
 
 - **Comunicação de Dados** (Data Communication) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Project](https://github.com/surumkata/shafa)
-- **Programação Orientada aos Objetos** (Object Oriented Programming) - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Exercises](https://github.com/simaocunha71/POO) | [Project](https://github.com/surumkata/PROJETOPOO)
+- **Programação Orientada aos Objetos** (Object Oriented Programming) - ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Exercises](https://github.com/simaocunha71/POO) | [Project](https://github.com/surumkata/fmpoo2021)
 - **Laboratórios de Informática III** (Informatic Labs III) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) - [Projects](https://github.com/simaocunha71/sgr-uminho)
 - **Cálculo de Programas** (Program Calculation) - ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white) ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) - [Project](https://github.com/simaocunha71/CP_Projeto)
 - **Sistemas Operativos** (Operative Systems) - ![C badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) - [Exercises](https://github.com/simaocunha71/SistemasOperativos) | [Project](https://github.com/simaocunha71/SO_Projeto)
