@@ -52,7 +52,7 @@ Here you have several ways to contact me:
 | **Computação Gráfica** (Computer Graphics) | ![C++ badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![OGL badge](https://img.shields.io/badge/OpenGL-FFFFFF?style=for-the-badge&logo=opengl) | [Project](https://github.com/simaocunha71/engineandgenerator3D)
 | **Aprendizagem e Decisão Inteligentes** (Intelligent Learning and Decision Making) | Non applicable| [Project](https://github.com/simaocunha71/ADI_projeto)
 | **Investigação Operacional** (Operational Research) | Non applicable | [Project](https://github.com/simaocunha71/IO_Projetos)
-| **Redes de Computadores** (Computer Networks) |  ![vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) | Under maintenance
+| **Redes de Computadores** (Computer Networks) |  ![vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white) | [Projects](https://github.com/simaocunha71/redes-de-computadores)
 </details>
 
 <details open>
