@@ -81,7 +81,7 @@ Here you have several ways to contact me:
 |:--:|:--:|:--:|
 | **Gestão e Segurança de Redes** (Network Management and Security)           |                Coming soon                |        Under maintenance      |
 | **Qualidade de Serviço na Internet** (Quality of Service in the Internet)   |                Coming soon                |        Under maintenance      |
-| **Interligação de Redes IP** (IP Internetworking)                           |                Coming soon                |        Under maintenance      |
+| **Interligação de Redes IP** (IP Internetworking)                           |                ![vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)                |        [Aqui](https://github.com/simaocunha71/iri)      |
 </details>
 
 
