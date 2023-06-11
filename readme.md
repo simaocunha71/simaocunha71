@@ -71,9 +71,9 @@ Here you have several ways to contact me:
   
 | **UC** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
 |:--:|:--:|:--:|
-| **Manutenção e Evolução de Software** (Software Maintenance and Evolution)            |                Coming soon                |        Under maintenance      |
+| **Manutenção e Evolução de Software** (Software Maintenance and Evolution)            | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)                | [Aqui](https://github.com/simaocunha71/mes_project)       |
 | **Tópicos de Desenvolvimento de Software** (Topics of Software Development)           |                Coming soon                |        Under maintenance      |
-|**Experimentação em Engenharia de Software** (Experimentation in Software Engineering) |                Coming soon                |        Under maintenance      |
+|**Experimentação em Engenharia de Software** (Experimentation in Software Engineering) | ![bs](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![sci](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)                |        [Aqui](https://github.com/realRunlo/EnergyMeasurement)      |
   
 <h4 style="text-align: center;"> Perfil de mestrado #2: Engenharia Internet (Internet Engineering)</h4>
   
