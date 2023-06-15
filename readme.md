@@ -72,7 +72,7 @@ Here you have several ways to contact me:
 | **UC** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
 |:--:|:--:|:--:|
 | **Manutenção e Evolução de Software** (Software Maintenance and Evolution)            | ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)                | [Aqui](https://github.com/simaocunha71/mes_project)       |
-| **Tópicos de Desenvolvimento de Software** (Topics of Software Development)           |                Coming soon                |        Under maintenance      |
+| **Tópicos de Desenvolvimento de Software** (Topics of Software Development)           |![RN](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)              | [Aqui](https://github.com/simaocunha71/BraGuia)      |
 |**Experimentação em Engenharia de Software** (Experimentation in Software Engineering) | ![bs](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![sci](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)                |        [Aqui](https://github.com/realRunlo/EnergyMeasurement)      |
   
 <h4 style="text-align: center;"> Perfil de mestrado #2: Engenharia Internet (Internet Engineering)</h4>
@@ -83,5 +83,3 @@ Here you have several ways to contact me:
 | **Qualidade de Serviço na Internet** (Quality of Service in the Internet)   | ![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)                |        [Fichas](https://github.com/simaocunha71/qsi) / [Projeto](https://github.com/realRunlo/CNP)      |
 | **Interligação de Redes IP** (IP Internetworking)                           |                ![vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)                |        [Aqui](https://github.com/simaocunha71/iri)      |
 </details>
-
-
