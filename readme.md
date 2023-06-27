@@ -79,7 +79,7 @@ Here you have several ways to contact me:
   
 | **UC** (course)                                                                        |      **Linguagem(ns)** (Language(s))      |  **Repositório(s)** (Repository(ies)) |
 |:--:|:--:|:--:|
-| **Gestão e Segurança de Redes** (Network Management and Security)           |                Coming soon                |        Under maintenance      |
+| **Gestão e Segurança de Redes** (Network Management and Security)           |                ![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)                |        [Aqui](https://github.com/simaocunha71/gsr)      |
 | **Qualidade de Serviço na Internet** (Quality of Service in the Internet)   | ![python badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)                |        [Fichas](https://github.com/simaocunha71/qsi) / [Projeto](https://github.com/realRunlo/CNP)      |
 | **Interligação de Redes IP** (IP Internetworking)                           |                ![vb](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)                |        [Aqui](https://github.com/simaocunha71/iri)      |
 </details>
