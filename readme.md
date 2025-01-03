@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm Simão Cunha, a passionate Software Engineering and Machine Learning enthusiast and I’m currently studying in the 2nd year MSc Computer Engineering at the University of Minho.
+I'm Simão Cunha, a passionate Software Engineering and Machine Learning enthusiast. I recently completed my MSc in Informatics Engineering at the University of Minho.
 
 ## Connect with Me
 
